@@ -108,11 +108,11 @@ public class UIAdvertActivityPage : UIPage
 			GameEventManager.SendEvent("video_start_doublebonus");
             //ADManager.ShowRewardedAD(OnGetIsLockAdsSucceedBool);
 
-            if (Advertisements.Instance.IsRewardVideoAvailable())
-            {
-                Implementation.Instance.ShowRewardedVideo();
-                OnGetIsLockAdsSucceedBool(true);
-            }
+            //if (Advertisements.Instance.IsRewardVideoAvailable())
+            //{
+            //    Implementation.Instance.ShowRewardedVideo();
+            //    OnGetIsLockAdsSucceedBool(true);
+            //}
         }
     }
 

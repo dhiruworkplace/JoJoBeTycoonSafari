@@ -84,11 +84,11 @@ public class UIOfflineRewardPage : UIPage
 
         //ADManager.ShowRewardedAD(OnGetIsLockAdsSucceedBool);
 
-        if (Advertisements.Instance.IsRewardVideoAvailable())
-        {
-            Implementation.Instance.ShowRewardedVideo();
-            OnGetIsLockAdsSucceedBool(true);
-        }
+        //if (Advertisements.Instance.IsRewardVideoAvailable())
+        //{
+        //    Implementation.Instance.ShowRewardedVideo();
+        //    OnGetIsLockAdsSucceedBool(true);
+        //}
         
     }
 
