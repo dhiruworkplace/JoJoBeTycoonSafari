@@ -1,0 +1,136 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: eb5821e9c69474fe99b6087c51583256, type: 3}
+  m_Name: world_map_config
+  m_EditorClassIdentifier: 
+  pieceDarkMaterial: {fileID: 2100000, guid: bdbbfec06fb3f49d981e3294d8a96b56, type: 2}
+  starSprite: {fileID: 21300000, guid: 6c181128f880b7746a7d5413e5f4acef, type: 3}
+  goldSprite: {fileID: 21300000, guid: fc626104c1e11014c84f4470c06ceeec, type: 3}
+  unbrowseSymbolAnimDuration: 2
+  unbrowseSymbolAnimRange: 15
+  unbrowseSymbolAnimCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 0.5
+      inSlope: 25.577808
+      outSlope: 25.577808
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.24107368
+    - serializedVersion: 3
+      time: 0.030638337
+      value: 1
+      inSlope: 0.02644869
+      outSlope: 0.02644869
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33594832
+    - serializedVersion: 3
+      time: 0.0734843
+      value: 0
+      inSlope: 0.006459424
+      outSlope: 0.006459424
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.58134025
+    - serializedVersion: 3
+      time: 0.12206864
+      value: 0.8259105
+      inSlope: 0.008095474
+      outSlope: 0.008095474
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.5907924
+    - serializedVersion: 3
+      time: 0.16541505
+      value: 0.26272026
+      inSlope: 0.013714266
+      outSlope: 0.013714266
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.4628478
+    - serializedVersion: 3
+      time: 0.19961786
+      value: 0.5957917
+      inSlope: 0.007523499
+      outSlope: 0.007523499
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.30588314
+      outWeight: 0.86343664
+    - serializedVersion: 3
+      time: 0.23644185
+      value: 0.5
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    - serializedVersion: 3
+      time: 1
+      value: 0.5
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.44217628
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  unbrowseBubbleOffset: {x: 0, y: 0}
+  selectedAnimDuration: 0.3
+  selectedScale: {x: 1.1, y: 1.1}
+  selectedAnimCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 0
+      inSlope: 0.50989693
+      outSlope: 0.50989693
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.31526044
+    - serializedVersion: 3
+      time: 0.7014364
+      value: 1.5948149
+      inSlope: 0.0038870673
+      outSlope: 0.0038870673
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.37417257
+    - serializedVersion: 3
+      time: 1
+      value: 1
+      inSlope: -0.11616877
+      outSlope: -0.11616877
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.65667605
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  selectedShadowColor: {r: 0, g: 0, b: 0, a: 0.5}
+  selectedShadowDist: {x: 0, y: -5}
+  currPointerOffset: {x: 0, y: 10}
