@@ -6,15 +6,16 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Resources/Scene/Loading.unity
+    path: Assets/JoJoBeTycoonSafari/Resources/Scene/Loading.unity
     guid: 545cd92b1cb093149ad2c24ef3e4ebb3
   - enabled: 1
-    path: Assets/Resources/Scene/Load.unity
+    path: Assets/JoJoBeTycoonSafari/Resources/Scene/Load.unity
     guid: ad9677351df592f488217fe5232a7ed3
   - enabled: 1
-    path: Assets/Resources/Scene/LittleScene.unity
+    path: Assets/JoJoBeTycoonSafari/Resources/Scene/LittleScene.unity
     guid: 4b4e224b338e5f5498e8c5a74e750183
   - enabled: 1
-    path: Assets/Resources/Scene/dwy_9.unity
+    path: Assets/JoJoBeTycoonSafari/Resources/Scene/dwy_9.unity
     guid: 6378ecfe668e5ac46825c0260716ba63
   m_configObjects: {}
+  m_UseUCBPForAssetBundles: 0

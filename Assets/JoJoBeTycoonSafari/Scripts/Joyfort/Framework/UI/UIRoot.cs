@@ -146,7 +146,7 @@ public class UIRoot : MonoBehaviour {
 
         CanvasScaler cs = go.AddComponent<CanvasScaler>();
         cs.uiScaleMode = CanvasScaler.ScaleMode.ScaleWithScreenSize;
-        cs.referenceResolution = new Vector2(720f, 1280f);
+        cs.referenceResolution = new Vector2(1080f, 1920f);
         cs.screenMatchMode = CanvasScaler.ScreenMatchMode.Expand;
 
         return go;
