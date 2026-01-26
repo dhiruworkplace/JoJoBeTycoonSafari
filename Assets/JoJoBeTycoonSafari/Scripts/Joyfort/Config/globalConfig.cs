@@ -159,7 +159,7 @@ namespace Config
 		///<summary>
 		///动物园场景背景音乐
 		///<summary>
-		public readonly string ZooSceneBGM= "music/zoogame_bgm_01_mp3";  
+		public readonly string ZooSceneBGM= "music/bg";  
 		///<summary>
 		///动物解锁展示音效
 		///<summary>

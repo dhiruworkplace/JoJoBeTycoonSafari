@@ -98,10 +98,10 @@ public class UIEntryPage : UIPage
 
         //等级进度条控件
         //gradeSlider1 = RegistCompent<Slider>("LvUpSchedule/Schedule/Slider1");
-        gradeSlider = RegistCompent<Slider>("LvUpSchedule/Schedule/Slider2");
-        gradeSlider_Image = RegistCompent<Image>("LvUpSchedule/Schedule/IconBg/Icon");
-        gradeSlider_Text = RegistCompent<Text>("LvUpSchedule/Schedule/IconBg/Num");
-        gradeText = RegistCompent<Text>("LvUpSchedule/Schedule/Text_2");
+        gradeSlider = RegistCompent<Slider>("UIFerryCar_LvUp/LvUpSchedule/Schedule/Slider2");
+        gradeSlider_Image = RegistCompent<Image>("UIFerryCar_LvUp/LvUpSchedule/Schedule/IconBg/Icon");
+        gradeSlider_Text = RegistCompent<Text>("UIFerryCar_LvUp/LvUpSchedule/Schedule/IconBg/Num");
+        gradeText = RegistCompent<Text>("UIFerryCar_LvUp/LvUpSchedule/Schedule/Text_2");
 
         scoreNumTest = RegistCompent<Text>("UIFerryCar_LvUp/ScoreGroup/ScoreNum");
 
@@ -139,7 +139,7 @@ public class UIEntryPage : UIPage
             Text serialText = RegistCompent<Text>(string.Format(path, name, "ID/LvText"));
             //GetTransPrefabText(Text_3);
             Button button = RegistCompent<Button>(string.Format(path, name, "Button"));
-            Text button_Text_2 = button.transform.Find("NeedGoldNum").GetComponent<Text>();
+            Text button_Text_2 = button.transform.Find("Image/NeedGoldNum").GetComponent<Text>();
             Text button_Text_3 = button.transform.Find("ButtonLvUpText").GetComponent<Text>();
             button.gameObject.SetActive(false);
 
@@ -250,7 +250,7 @@ public class UIEntryPage : UIPage
             Text LvText = RegistCompent<Text>(string.Format(path, name, "level/LvText"));
             Text serialText = RegistCompent<Text>(string.Format(path, name, "ID/LvText"));
             Button button = RegistCompent<Button>(string.Format(path, name, "Button"));
-            Text button_NeedGoldNum = button.transform.Find("NeedGoldNum").GetComponent<Text>();
+            Text button_NeedGoldNum = button.transform.Find("Image/NeedGoldNum").GetComponent<Text>();
             Text button_ButtonLvUpText = button.transform.Find("ButtonLvUpText").GetComponent<Text>();
             button.gameObject.SetActive(false);
 
@@ -477,7 +477,7 @@ public class UIEntryPage : UIPage
         Text LvText = RegistCompent<Text>(string.Format(path, name, "level/LvText"));
         Text serialText = RegistCompent<Text>(string.Format(path, name, "ID/LvText"));
         Button button = RegistCompent<Button>(string.Format(path, name, "Button"));
-        Text button_NeedGoldNum = button.transform.Find("NeedGoldNum").GetComponent<Text>();
+        Text button_NeedGoldNum = button.transform.Find("Image/NeedGoldNum").GetComponent<Text>();
         Text button_ButtonLvUpText = button.transform.Find("ButtonLvUpText").GetComponent<Text>();
 
         /* 正常单售票口开启后的ui显示 */
@@ -550,7 +550,7 @@ public class UIEntryPage : UIPage
             Text LvText = RegistCompent<Text>(string.Format(path, name, "level/LvText"));
             Text serialText = RegistCompent<Text>(string.Format(path, name, "ID/LvText"));
             Button button = RegistCompent<Button>(string.Format(path, name, "Button"));
-            Text button_NeedGoldNum = button.transform.Find("NeedGoldNum").GetComponent<Text>();
+            Text button_NeedGoldNum = button.transform.Find("Image/NeedGoldNum").GetComponent<Text>();
             Text button_ButtonLvUpText = button.transform.Find("ButtonLvUpText").GetComponent<Text>();
             //button.gameObject.SetActive(false);
 

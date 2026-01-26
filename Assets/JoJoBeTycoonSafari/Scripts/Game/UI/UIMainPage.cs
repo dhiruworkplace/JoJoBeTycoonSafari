@@ -400,11 +400,11 @@ public class UIMainPage : UIPage
             }
         }
         ActiveButShowPart();
-        if (GlobalDataManager.GetInstance().playerData.playerZoo.isLoadingShowOffline)
-        {
-            OnOpenOfflineUIPage(null);
-            GlobalDataManager.GetInstance().playerData.playerZoo.isLoadingShowOffline = false;
-        }
+        //if (GlobalDataManager.GetInstance().playerData.playerZoo.isLoadingShowOffline)
+        //{
+        //    OnOpenOfflineUIPage(null);
+        //    GlobalDataManager.GetInstance().playerData.playerZoo.isLoadingShowOffline = false;
+        //}
     }
 
     protected void OnUIMessage_ActiveButHidePart(Message msg)

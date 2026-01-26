@@ -164,7 +164,7 @@ PlayerSettings:
   androidMaxAspectRatio: 2.1
   androidMinAspectRatio: 1
   applicationIdentifier:
-    Android: com.guc.zooballoon.yyy
+    Android: com.jojobe.tycoonsafari
     iPhone: com.hillgame.zooballoon.yyy.os
   buildNumber:
     Standalone: 0
