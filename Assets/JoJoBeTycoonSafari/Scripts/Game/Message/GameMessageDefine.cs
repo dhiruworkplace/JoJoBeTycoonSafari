@@ -7,7 +7,7 @@
 ********************************************************************/
 
 
-namespace Game.MessageCenter
+namespace ZooGame.MessageCenter
 {
     public enum GameMessageDefine
     {

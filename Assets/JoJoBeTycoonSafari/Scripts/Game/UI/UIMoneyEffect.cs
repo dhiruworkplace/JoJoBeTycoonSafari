@@ -1,7 +1,7 @@
 ﻿using DG.Tweening;
 using DG.Tweening.Core;
 using DG.Tweening.Plugins.Options;
-using Game;
+using ZooGame;
 using System;
 using System.Collections;
 using System.Collections.Generic;

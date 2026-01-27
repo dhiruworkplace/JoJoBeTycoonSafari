@@ -14,13 +14,13 @@ using UFrame.BehaviourFloat;
 using UFrame.MessageCenter;
 using UnityEngine;
 using Logger;
-using Game.MessageCenter;
+using ZooGame.MessageCenter;
 using UFrame.OrthographicCamera;
 using UFrame.EntityFloat;
-using Game.GlobalData;
-using Game.Path.StraightLine;
+using ZooGame.GlobalData;
+using ZooGame.Path.StraightLine;
 
-namespace Game
+namespace ZooGame
 {
     public class SpawnModule : GameModule
     {

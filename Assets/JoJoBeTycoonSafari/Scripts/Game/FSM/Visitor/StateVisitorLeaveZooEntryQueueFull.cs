@@ -13,12 +13,12 @@ using UnityEngine;
 using UFrame;
 using UFrame.MessageCenter;
 using Logger;
-using Game.Path.StraightLine;
-using Game.MessageCenter;
-using Game.MiniGame;
+using ZooGame.Path.StraightLine;
+using ZooGame.MessageCenter;
+using ZooGame.MiniGame;
 using DG.Tweening;
 
-namespace Game
+namespace ZooGame
 {
     /// <summary>
     /// 入口排队满了

@@ -13,9 +13,9 @@
 //using UFrame.MessageCenter;
 //using UnityEngine;
 //using Logger;
-//using Game.MessageCenter;
+//using ZooGame.MessageCenter;
 
-//namespace Game
+//namespace ZooGame
 //{
 //    /// <summary>
 //    /// 入口检票逻辑模块

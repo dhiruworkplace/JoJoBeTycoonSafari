@@ -1,14 +1,14 @@
-﻿using Game;
-using Game.GlobalData;
+﻿using ZooGame;
+using ZooGame.GlobalData;
 using Logger;
 using System.Collections;
 using System.Collections.Generic;
-using Game.MessageCenter;
+using ZooGame.MessageCenter;
 using UFrame.MessageCenter;
 using UnityEngine;
 using UFrame;
 
-namespace Game
+namespace ZooGame
 {
     public partial class PlayerDataModule : GameModule
     {

@@ -1,9 +1,9 @@
-﻿using Game.GlobalData;
+﻿using ZooGame.GlobalData;
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-namespace Game
+namespace ZooGame
 {
     /// <summary>
     /// 动物加成   buff都没有做

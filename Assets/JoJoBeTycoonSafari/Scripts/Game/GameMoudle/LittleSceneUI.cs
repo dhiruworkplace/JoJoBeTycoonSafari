@@ -1,10 +1,10 @@
-﻿using Game.GlobalData;
+﻿using ZooGame.GlobalData;
 using Logger;
 using System.Collections;
 using System.Collections.Generic;
 using UFrame.MiniGame;
 using UnityEngine;
-namespace Game
+namespace ZooGame
 {
     public class SceneUIArray
     {   

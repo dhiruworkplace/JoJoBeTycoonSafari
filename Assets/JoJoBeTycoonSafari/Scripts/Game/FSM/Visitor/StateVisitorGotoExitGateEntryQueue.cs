@@ -7,17 +7,17 @@
 ********************************************************************/
 
 
-using Game.Path.StraightLine;
+using ZooGame.Path.StraightLine;
 using UFrame;
 using UFrame.MessageCenter;
 using Logger;
-using Game.MessageCenter;
+using ZooGame.MessageCenter;
 using System;
 using UnityEngine;
 using System.Collections.Generic;
-using Game.GlobalData;
+using ZooGame.GlobalData;
 
-namespace Game
+namespace ZooGame
 {
     /// <summary>
     /// 走向出口的排队位

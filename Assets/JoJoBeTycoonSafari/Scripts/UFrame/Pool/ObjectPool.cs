@@ -9,7 +9,7 @@
 
 using System;
 using System.Collections.Generic;
-using Game.MessageCenter;
+using ZooGame.MessageCenter;
 
 namespace UFrame
 {

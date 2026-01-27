@@ -13,9 +13,9 @@
 //using UFrame;
 //using UFrame.MessageCenter;
 //using Logger;
-//using Game.Path.StraightLine;
+//using ZooGame.Path.StraightLine;
 
-//namespace Game
+//namespace ZooGame
 //{
 //    public class StateVisitorLeaveZooEntryQueueFull : FSMState
 //    {

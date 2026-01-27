@@ -4,12 +4,12 @@ using UnityEngine;
 using UFrame.Common;
 using Logger;
 using UFrame;
-using Game.MessageCenter;
-using Game.MiniGame;
-using Game.GlobalData;
+using ZooGame.MessageCenter;
+using ZooGame.MiniGame;
+using ZooGame.GlobalData;
 using UFrame.MiniGame;
 
-namespace Game
+namespace ZooGame
 {
     public class ZooGameLoader : Singleton<ZooGameLoader>, ISingleton
     {

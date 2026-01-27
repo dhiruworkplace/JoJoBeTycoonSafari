@@ -3,17 +3,17 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
 using Config;
-using Game;
-using Game.MessageCenter;
+using ZooGame;
+using ZooGame.MessageCenter;
 using UFrame;
-using Game.GlobalData;
+using ZooGame.GlobalData;
 using System;
 using UFrame.MessageCenter;
 using System.Numerics;
 using Logger;
 using UFrame.MiniGame;
 using UFrame.BehaviourFloat;
-using Game.Path.StraightLine;
+using ZooGame.Path.StraightLine;
 
 /// <summary>
 /// 编辑器

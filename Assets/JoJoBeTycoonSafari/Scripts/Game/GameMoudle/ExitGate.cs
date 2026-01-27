@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using UFrame;
 using UnityEngine;
 
-namespace Game
+namespace ZooGame
 {
     public class ExitGate
     {

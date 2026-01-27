@@ -1,6 +1,6 @@
-﻿//using Game.GlobalData;
-//using Game.MessageCenter;
-//using Game.Path.StraightLine;
+﻿//using ZooGame.GlobalData;
+//using ZooGame.MessageCenter;
+//using ZooGame.Path.StraightLine;
 //using Logger;
 //using System.Collections;
 //using System.Collections.Generic;
@@ -8,7 +8,7 @@
 //using UFrame.MessageCenter;
 //using UnityEngine;
 
-//namespace Game
+//namespace ZooGame
 //{
 //    /// <summary>
 //    /// 构建跨组的路径

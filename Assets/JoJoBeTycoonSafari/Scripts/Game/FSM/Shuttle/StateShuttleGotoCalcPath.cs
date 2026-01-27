@@ -7,16 +7,16 @@
 ********************************************************************/
 
 
-using Game.Path.StraightLine;
+using ZooGame.Path.StraightLine;
 using UFrame;
 using UFrame.MessageCenter;
 using Logger;
-using Game.MessageCenter;
+using ZooGame.MessageCenter;
 using System;
 using UnityEngine;
 using System.Collections.Generic;
 
-namespace Game
+namespace ZooGame
 {
     /// <summary>
     /// 摆渡车出发走计算出来的路线，到终点下人

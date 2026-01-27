@@ -9,7 +9,7 @@
 
 using System;
 
-namespace Game
+namespace ZooGame
 {
     /// <summary>
     /// 和策划表resource.xlsx保持一致

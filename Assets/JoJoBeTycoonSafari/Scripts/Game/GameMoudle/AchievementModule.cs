@@ -2,14 +2,14 @@
 using System.Collections.Generic;
 using UnityEngine;
 using System.Numerics;
-using Game.GlobalData;
+using ZooGame.GlobalData;
 using Logger;
 using UFrame;
-using Game.MessageCenter;
+using ZooGame.MessageCenter;
 using System;
 using UFrame.MessageCenter;
 
-namespace Game
+namespace ZooGame
 {
     /// <summary>
     /// 收集Module层：存储所有和收集有关的数据Data

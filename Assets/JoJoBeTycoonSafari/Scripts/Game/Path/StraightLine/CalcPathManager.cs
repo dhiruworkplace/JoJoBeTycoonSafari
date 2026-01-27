@@ -1,11 +1,11 @@
-﻿using Game.MiniGame;
+﻿using ZooGame.MiniGame;
 using System.Collections.Generic;
 using UFrame.BehaviourFloat;
 using UFrame.Common;
 using UFrame.Path.StraightLine;
 using UnityEngine;
 
-namespace Game.Path.StraightLine
+namespace ZooGame.Path.StraightLine
 {
     public class CalcPathManager : Singleton<CalcPathManager>, ISingleton
     {

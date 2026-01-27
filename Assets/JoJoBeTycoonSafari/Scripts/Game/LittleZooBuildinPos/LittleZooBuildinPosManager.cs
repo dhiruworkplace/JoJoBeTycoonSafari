@@ -14,7 +14,7 @@ using UFrame;
 using UFrame.Common;
 using UnityEngine;
 
-namespace Game
+namespace ZooGame
 {
     public partial class LittleZooBuildinPosManager : Singleton<LittleZooBuildinPosManager>, ISingleton
     {

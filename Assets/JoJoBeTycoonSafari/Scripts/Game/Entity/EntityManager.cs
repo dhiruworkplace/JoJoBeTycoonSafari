@@ -7,16 +7,16 @@
 ********************************************************************/
 
 
-using Game.MiniGame;
+using ZooGame.MiniGame;
 using System.Collections.Generic;
 using UFrame;
 using UFrame.Common;
 using UFrame.EntityFloat;
 using UFrame.MessageCenter;
-using Game.GlobalData;
+using ZooGame.GlobalData;
 using Logger;
 
-namespace Game
+namespace ZooGame
 {
     public class EntityManagerTick : TickBase
     {

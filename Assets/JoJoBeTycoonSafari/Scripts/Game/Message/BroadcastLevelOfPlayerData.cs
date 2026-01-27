@@ -1,11 +1,11 @@
-﻿//using Game.MessageCenter;
+﻿//using ZooGame.MessageCenter;
 //using System.Collections;
 //using System.Collections.Generic;
 //using UFrame;
 //using UFrame.MessageCenter;
 //using UnityEngine;
 
-//namespace Game.MessageCenter
+//namespace ZooGame.MessageCenter
 //{
 //    public class BroadcastLevelOfPlayerData : Message
 //    {

@@ -2,7 +2,7 @@
 using System.Collections;
 using System.Collections.Generic;
 using DG.Tweening;
-using Game.GlobalData;
+using ZooGame.GlobalData;
 using UniRx;
 using UnityEngine;
 using UnityEngine.UI;

@@ -12,7 +12,7 @@ using System.Collections.Generic;
 using UFrame;
 using UnityEngine;
 
-namespace Game
+namespace ZooGame
 {
     /// <summary>
     /// 动物栏抽象

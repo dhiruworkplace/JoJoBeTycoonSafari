@@ -2,9 +2,9 @@
 using System.Collections.Generic;
 using UnityEngine;
 using UFrame.MiniGame;
-using Game.GlobalData;
+using ZooGame.GlobalData;
 
-namespace Game
+namespace ZooGame
 {
     public class GameSoundManager : SoundManager
     {

@@ -1,10 +1,10 @@
-﻿//using Game.GlobalData;
+﻿//using ZooGame.GlobalData;
 //using System.Collections;
 //using System.Collections.Generic;
 //using UFrame;
 //using UFrame.MessageCenter;
 //using UnityEngine;
-//namespace Game.MessageCenter
+//namespace ZooGame.MessageCenter
 //{
 //    public class SetPlayerData : Message
 //    {

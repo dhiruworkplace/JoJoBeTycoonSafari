@@ -4,7 +4,7 @@ using UnityEngine;
 using System;
 using UFrame;
 
-namespace Game.GlobalData
+namespace ZooGame.GlobalData
 {
     [Serializable]
     public class PlayerData

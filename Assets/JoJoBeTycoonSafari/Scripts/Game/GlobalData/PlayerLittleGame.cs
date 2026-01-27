@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 using System;
 
-namespace Game.GlobalData
+namespace ZooGame.GlobalData
 {
     [Serializable]
     public class PlayerLittleGame

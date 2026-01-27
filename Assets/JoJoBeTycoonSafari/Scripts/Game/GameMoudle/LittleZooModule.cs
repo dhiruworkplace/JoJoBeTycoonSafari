@@ -7,8 +7,8 @@
 ********************************************************************/
 
 
-using Game.GlobalData;
-using Game.MessageCenter;
+using ZooGame.GlobalData;
+using ZooGame.MessageCenter;
 using Logger;
 using System;
 using System.Collections;
@@ -20,7 +20,7 @@ using UFrame.MessageCenter;
 using UFrame.MiniGame;
 using UnityEngine;
 
-namespace Game
+namespace ZooGame
 {
     public partial class LittleZooModule : GameModule
     {

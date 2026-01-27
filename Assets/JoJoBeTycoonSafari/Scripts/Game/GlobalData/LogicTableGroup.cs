@@ -15,7 +15,7 @@ using Logger;
 using UFrame;
 using System;
 
-namespace Game.GlobalData
+namespace ZooGame.GlobalData
 {
     public class LittleZooWeight
     {

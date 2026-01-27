@@ -7,8 +7,8 @@
 ********************************************************************/
 
 
-using Game.GlobalData;
-using Game.MessageCenter;
+using ZooGame.GlobalData;
+using ZooGame.MessageCenter;
 using System.Collections;
 using System.Collections.Generic;
 using UFrame;
@@ -18,7 +18,7 @@ using System.Numerics;
 using Logger;
 using System;
 
-namespace Game
+namespace ZooGame
 {
     public partial class PlayerDataModule : GameModule
     {

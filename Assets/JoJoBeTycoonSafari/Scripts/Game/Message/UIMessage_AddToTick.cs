@@ -5,7 +5,7 @@ using UFrame.EntityFloat;
 using UFrame.MessageCenter;
 using UnityEngine;
 
-namespace Game.MessageCenter
+namespace ZooGame.MessageCenter
 {
     public class UIMessage_AddToTick : Message
     {

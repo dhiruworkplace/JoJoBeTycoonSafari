@@ -1,4 +1,4 @@
-﻿using Game.GlobalData;
+﻿using ZooGame.GlobalData;
 using Logger;
 using System;
 using System.Collections;
@@ -7,7 +7,7 @@ using System.Linq;
 using UFrame.EntityFloat;
 using UnityEngine;
 
-namespace Game
+namespace ZooGame
 {
     [Serializable]
     public enum AnimalState

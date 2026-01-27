@@ -63,7 +63,7 @@ namespace Config
 		///<summary>
 		///工程名称
 		///<summary>
-		public readonly string ZooSceneName= "dwy_9";  
+		public readonly string ZooSceneName= "ZooMap";  
 		///<summary>
 		///游客移动速度
 		///<summary>

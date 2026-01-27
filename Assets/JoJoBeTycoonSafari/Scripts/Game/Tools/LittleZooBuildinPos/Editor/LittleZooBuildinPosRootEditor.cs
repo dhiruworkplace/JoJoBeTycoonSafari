@@ -11,13 +11,13 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEditor;
-using Game.Tools;
+using ZooGame.Tools;
 using System.IO;
 using System.Text;
 using Logger;
 using UFrame.Path.StraightLine;
 
-namespace Game.Tools
+namespace ZooGame.Tools
 {
     [CustomEditor(typeof(LittleZooBuildinPosRoot))]
     public class LittleZooBuildinPosEditor : Editor
@@ -60,7 +60,7 @@ namespace Game.Tools
                 "using System.Collections.Generic;\r\n" +
                 "using UFrame.Common;\r\n" +
                 "using UnityEngine;\r\n" +
-                "namespace Game\r\n" +
+                "namespace ZooGame\r\n" +
                 "{\r\n" +
                 "    public partial class LittleZooBuildinPosManager : Singleton<LittleZooBuildinPosManager>, ISingleton\r\n" +
                 "    {\r\n" +

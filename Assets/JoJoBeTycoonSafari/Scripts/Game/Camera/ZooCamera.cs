@@ -3,11 +3,11 @@ using System.Collections.Generic;
 using UnityEngine;
 using UFrame.OrthographicCamera;
 using Logger;
-using Game.MessageCenter;
+using ZooGame.MessageCenter;
 using UFrame;
 using UFrame.MessageCenter;
 
-namespace Game
+namespace ZooGame
 {
     public class ZooCamera : FingerCamera
     {

@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 using Config;
-using Game.GlobalData;
+using ZooGame.GlobalData;
 
 namespace LittleGame
 {

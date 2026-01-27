@@ -18,11 +18,11 @@ using DG.Tweening.Plugins.Options;
 using DG.Tweening.Core;
 using UFrame.MiniGame;
 using UnityEngine.EventSystems;
-using Game.GlobalData;
+using ZooGame.GlobalData;
 using UFrame;
-using Game;
+using ZooGame;
 using Logger;
-using Game.MessageCenter;
+using ZooGame.MessageCenter;
 using UnityEngine.Events;
 
 public enum UIType

@@ -1,5 +1,5 @@
-﻿using Game.MessageCenter;
-using Game.Path.StraightLine;
+﻿using ZooGame.MessageCenter;
+using ZooGame.Path.StraightLine;
 using Logger;
 using System.Collections;
 using System.Collections.Generic;
@@ -7,7 +7,7 @@ using UFrame;
 using UFrame.BehaviourFloat;
 using UnityEngine;
 
-namespace Game
+namespace ZooGame
 {
     public enum FollowPathSuperMarketSimplyState
     {

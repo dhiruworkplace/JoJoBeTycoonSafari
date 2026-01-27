@@ -5,7 +5,7 @@ using System.Collections.Generic;
 using UFrame;
 using UnityEngine;
 
-namespace Game
+namespace ZooGame
 {
     [Serializable]
     public class Buff : TickBase

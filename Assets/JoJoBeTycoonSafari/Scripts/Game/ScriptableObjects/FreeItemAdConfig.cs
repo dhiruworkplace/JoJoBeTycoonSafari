@@ -1,6 +1,6 @@
 ﻿using UnityEngine;
 
-namespace Game
+namespace ZooGame
 {
     [CreateAssetMenu(menuName = "Game/FreeItemAdConfig")]
     public class FreeItemAdConfig : ScriptableObject

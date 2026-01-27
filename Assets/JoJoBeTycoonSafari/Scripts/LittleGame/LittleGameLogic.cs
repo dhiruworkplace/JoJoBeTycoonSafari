@@ -2,10 +2,10 @@
 using System.Collections.Generic;
 using UnityEngine;
 using Config;
-using Game.GlobalData;
-using Game;
+using ZooGame.GlobalData;
+using ZooGame;
 using UFrame;
-using Game.MessageCenter;
+using ZooGame.MessageCenter;
 using System;
 using UFrame.MessageCenter;
 

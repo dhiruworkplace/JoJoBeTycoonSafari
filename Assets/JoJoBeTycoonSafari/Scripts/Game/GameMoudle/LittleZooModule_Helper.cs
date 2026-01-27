@@ -1,7 +1,7 @@
-﻿using Game.GlobalData;
-using Game.MessageCenter;
-using Game.MiniGame;
-using Game.Path.StraightLine;
+﻿using ZooGame.GlobalData;
+using ZooGame.MessageCenter;
+using ZooGame.MiniGame;
+using ZooGame.Path.StraightLine;
 using Logger;
 using System;
 using System.Collections;
@@ -13,7 +13,7 @@ using UFrame.MiniGame;
 using UnityEngine;
 using UnityEngine.UI;
 
-namespace Game
+namespace ZooGame
 {
     public partial class LittleZooModule : GameModule
     {

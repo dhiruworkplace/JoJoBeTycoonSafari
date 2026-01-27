@@ -12,20 +12,20 @@ using System.Collections.Generic;
 using UnityEngine;
 using UFrame;
 using UFrame.BehaviourFloat;
-using Game.Path.StraightLine;
+using ZooGame.Path.StraightLine;
 using UFrame.MessageCenter;
-using Game.MiniGame;
+using ZooGame.MiniGame;
 using Config;
 using Logger;
-using Game.MessageCenter;
+using ZooGame.MessageCenter;
 using UFrame.EntityFloat;
 using UFrame.MiniGame;
 using UFrame.OrthographicCamera;
-using Game.GlobalData;
+using ZooGame.GlobalData;
 using System;
 using DG.Tweening;
 
-namespace Game
+namespace ZooGame
 {
     /// <summary>
     /// 停车场模块，包含地上地下

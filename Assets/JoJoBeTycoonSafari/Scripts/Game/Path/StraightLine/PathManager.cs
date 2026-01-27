@@ -7,13 +7,13 @@
 ********************************************************************/
 
 
-using Game.MiniGame;
+using ZooGame.MiniGame;
 using System.Collections.Generic;
 using UFrame.Common;
 using UFrame.Path.StraightLine;
 using UnityEngine;
 
-namespace Game.Path.StraightLine
+namespace ZooGame.Path.StraightLine
 {
     public partial class PathManager : Singleton<PathManager>, ISingleton
     {

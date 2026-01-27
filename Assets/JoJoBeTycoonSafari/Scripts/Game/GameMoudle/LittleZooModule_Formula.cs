@@ -1,9 +1,9 @@
-﻿using Game.GlobalData;
+﻿using ZooGame.GlobalData;
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-namespace Game
+namespace ZooGame
 {
     public partial class LittleZooModule : GameModule
     {

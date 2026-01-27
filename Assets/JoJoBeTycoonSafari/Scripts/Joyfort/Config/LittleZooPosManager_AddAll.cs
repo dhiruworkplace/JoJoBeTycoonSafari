@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using UFrame.Common;
 using UnityEngine;
-namespace Game
+namespace ZooGame
 {
     public partial class LittleZooPosManager : Singleton<LittleZooPosManager>, ISingleton
     {

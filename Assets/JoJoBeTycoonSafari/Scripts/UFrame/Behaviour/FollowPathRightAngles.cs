@@ -11,7 +11,7 @@ using UnityEngine;
 using UFrame.EntityFloat;
 using Logger;
 using System.Collections.Generic;
-using Game.Path.StraightLine;
+using ZooGame.Path.StraightLine;
 
 namespace UFrame.BehaviourFloat
 {

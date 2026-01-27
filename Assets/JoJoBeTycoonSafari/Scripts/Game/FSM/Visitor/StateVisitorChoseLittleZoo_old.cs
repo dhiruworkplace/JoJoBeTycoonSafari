@@ -12,12 +12,12 @@
 //using UFrame;
 //using UnityEngine;
 //using Logger;
-//using Game.GlobalData;
-//using Game.MessageCenter;
+//using ZooGame.GlobalData;
+//using ZooGame.MessageCenter;
 //using UFrame.MessageCenter;
-//using Game.Path.StraightLine;
+//using ZooGame.Path.StraightLine;
 
-//namespace Game
+//namespace ZooGame
 //{
 //    /// <summary>
 //    /// 选择动物栏逻辑

@@ -5,7 +5,7 @@ using System;
 using UnityEditor;
 using Logger;
 
-namespace Game.GlobalData
+namespace ZooGame.GlobalData
 {
     [Serializable]
     public class PlayerZoo

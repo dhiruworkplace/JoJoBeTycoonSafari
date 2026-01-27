@@ -13,7 +13,7 @@ using UFrame;
 using UFrame.Common;
 using UnityEngine;
 
-namespace Game
+namespace ZooGame
 {
     public class GameModuleTick : TickBase
     {

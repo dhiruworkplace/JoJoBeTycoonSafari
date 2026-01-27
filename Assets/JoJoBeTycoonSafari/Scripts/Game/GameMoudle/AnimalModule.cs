@@ -1,4 +1,4 @@
-﻿using Game.MessageCenter;
+﻿using ZooGame.MessageCenter;
 using Logger;
 using System.Collections;
 using System.Collections.Generic;
@@ -7,7 +7,7 @@ using UFrame;
 using UFrame.MessageCenter;
 using UnityEngine;
 
-namespace Game
+namespace ZooGame
 {
     public class AnimalModule : GameModule
     {

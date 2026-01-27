@@ -94,7 +94,7 @@ namespace UFrame.Path.StraightLine
                 "using UFrame.Common;\r\n" +
                 "using UFrame.Path.StraightLine;\r\n" +
                 "using UnityEngine;\r\n" +
-                "namespace Game.Path.StraightLine\r\n" +
+                "namespace ZooGame.Path.StraightLine\r\n" +
                 "{\r\n" +
                 "    public partial class PathManager : Singleton<PathManager>, ISingleton\r\n" +
                 "    {\r\n" +

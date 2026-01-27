@@ -1,7 +1,7 @@
 ﻿using DG.Tweening;
-using Game;
-using Game.GlobalData;
-using Game.MessageCenter;
+using ZooGame;
+using ZooGame.GlobalData;
+using ZooGame.MessageCenter;
 using Logger;
 using System;
 using System.Collections;

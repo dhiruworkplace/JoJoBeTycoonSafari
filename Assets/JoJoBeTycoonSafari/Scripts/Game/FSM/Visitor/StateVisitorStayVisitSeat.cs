@@ -8,9 +8,9 @@
 
 
 using DG.Tweening;
-using Game.GlobalData;
-using Game.MessageCenter;
-using Game.MiniGame;
+using ZooGame.GlobalData;
+using ZooGame.MessageCenter;
+using ZooGame.MiniGame;
 using Logger;
 using System;
 using System.Collections;
@@ -20,7 +20,7 @@ using UFrame.MessageCenter;
 using UnityEngine;
 using UnityEngine.UI;
 
-namespace Game
+namespace ZooGame
 {
     /// <summary>
     /// 观光位状态

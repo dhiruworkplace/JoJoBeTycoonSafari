@@ -1,4 +1,4 @@
-﻿using Game.MessageCenter;
+﻿using ZooGame.MessageCenter;
 using System.Collections;
 using System.Collections.Generic;
 using UFrame;
@@ -6,7 +6,7 @@ using UFrame.MessageCenter;
 using UnityEngine;
 using System.Numerics;
 
-namespace Game.MessageCenter
+namespace ZooGame.MessageCenter
 {
     public class BroadcastValueOfPlayerData : Message
     {

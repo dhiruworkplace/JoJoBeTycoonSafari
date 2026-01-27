@@ -14,7 +14,7 @@ using UFrame;
 using UFrame.Common;
 using UnityEngine;
 
-namespace Game.GlobalData
+namespace ZooGame.GlobalData
 {
     public partial class GlobalDataManager : Singleton<GlobalDataManager>, ISingleton
     {

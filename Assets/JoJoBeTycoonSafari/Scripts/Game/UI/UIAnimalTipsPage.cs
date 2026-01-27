@@ -1,5 +1,5 @@
 ﻿using DG.Tweening;
-using Game.GlobalData;
+using ZooGame.GlobalData;
 using System;
 using System.Collections;
 using System.Collections.Generic;

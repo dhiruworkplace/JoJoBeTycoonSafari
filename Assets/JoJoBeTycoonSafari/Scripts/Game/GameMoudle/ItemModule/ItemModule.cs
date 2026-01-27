@@ -7,8 +7,8 @@
 ********************************************************************/
 
 
-using Game.GlobalData;
-using Game.MessageCenter;
+using ZooGame.GlobalData;
+using ZooGame.MessageCenter;
 using System.Collections;
 using System.Collections.Generic;
 using System.Numerics;
@@ -16,7 +16,7 @@ using UFrame;
 using UFrame.MessageCenter;
 using UnityEngine;
 
-namespace Game
+namespace ZooGame
 {
     public class ItemModule : GameModule
     {

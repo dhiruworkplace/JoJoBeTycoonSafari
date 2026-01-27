@@ -13,9 +13,9 @@ using UFrame.EntityFloat;
 using Logger;
 using System.Collections.Generic;
 using UnityEngine;
-using Game.GlobalData;
+using ZooGame.GlobalData;
 
-namespace Game
+namespace ZooGame
 {
     public partial class EntityVisitor : EntityMovable
     {

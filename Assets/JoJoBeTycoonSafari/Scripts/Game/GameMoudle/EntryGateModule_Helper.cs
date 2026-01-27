@@ -3,19 +3,19 @@ using System.Collections.Generic;
 using UnityEngine;
 using UFrame;
 using UFrame.BehaviourFloat;
-using Game.Path.StraightLine;
+using ZooGame.Path.StraightLine;
 using UFrame.MessageCenter;
-using Game.MiniGame;
+using ZooGame.MiniGame;
 using Config;
 using Logger;
-using Game.MessageCenter;
+using ZooGame.MessageCenter;
 using UFrame.EntityFloat;
-using Game.GlobalData;
+using ZooGame.GlobalData;
 using UFrame.OrthographicCamera;
 using UFrame.MiniGame;
 using UnityEngine.UI;
 
-namespace Game
+namespace ZooGame
 {
     public partial class EntryGateModule : GameModule
     {

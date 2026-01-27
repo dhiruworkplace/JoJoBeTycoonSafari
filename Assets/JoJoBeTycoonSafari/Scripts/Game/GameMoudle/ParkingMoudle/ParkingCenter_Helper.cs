@@ -2,11 +2,11 @@
 using System.Collections.Generic;
 using UnityEngine;
 using System.Numerics;
-using Game.GlobalData;
+using ZooGame.GlobalData;
 using Logger;
 using UFrame.MiniGame;
 
-namespace Game
+namespace ZooGame
 {
     public partial class ParkingCenter : GameModule
     {

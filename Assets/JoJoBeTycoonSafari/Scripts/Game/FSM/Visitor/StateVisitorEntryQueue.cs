@@ -12,11 +12,11 @@ using UFrame;
 using UFrame.MessageCenter;
 using UnityEngine;
 using Logger;
-using Game.MessageCenter;
-using Game.GlobalData;
-using Game.Path.StraightLine;
+using ZooGame.MessageCenter;
+using ZooGame.GlobalData;
+using ZooGame.Path.StraightLine;
 
-namespace Game
+namespace ZooGame
 {
     /// <summary>
     /// 负责游客在入口排队的过程,排队排到第一位时,转入下一个状态。

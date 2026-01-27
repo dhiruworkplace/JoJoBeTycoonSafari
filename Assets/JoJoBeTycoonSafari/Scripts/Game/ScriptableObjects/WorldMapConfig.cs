@@ -1,6 +1,6 @@
 ﻿using UnityEngine;
 
-namespace Game
+namespace ZooGame
 {
     [CreateAssetMenu(menuName = "Game/WorldMapConfig")]
     public class WorldMapConfig : ScriptableObject

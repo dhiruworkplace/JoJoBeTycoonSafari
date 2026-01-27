@@ -2,7 +2,7 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
-using Game.GlobalData;
+using ZooGame.GlobalData;
 [Serializable]
 public class PlayerNumberOfVideosWatched 
 {

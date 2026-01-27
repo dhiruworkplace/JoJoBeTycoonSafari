@@ -4,10 +4,10 @@ using UFrame.EntityFloat;
 using Logger;
 using System.Collections.Generic;
 using UnityEngine;
-using Game.GlobalData;
-using Game.Path.StraightLine;
+using ZooGame.GlobalData;
+using ZooGame.Path.StraightLine;
 
-namespace Game
+namespace ZooGame
 {
     public partial class EntityVisitor : EntityMovable
     {

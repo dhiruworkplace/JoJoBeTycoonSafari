@@ -9,7 +9,7 @@
 
 using UFrame;
 
-namespace Game
+namespace ZooGame
 {
     public abstract class GameModule : TickBase
     {

@@ -7,15 +7,15 @@
 ********************************************************************/
 
 
-using Game.Path.StraightLine;
+using ZooGame.Path.StraightLine;
 using UFrame;
 using UFrame.MessageCenter;
 using Logger;
-using Game.MessageCenter;
+using ZooGame.MessageCenter;
 using UnityEngine;
 using System.Collections.Generic;
 
-namespace Game
+namespace ZooGame
 {
     /// <summary>
     /// 游客的第一个状态

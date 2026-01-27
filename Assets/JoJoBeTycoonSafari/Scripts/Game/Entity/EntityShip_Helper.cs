@@ -14,10 +14,10 @@ using Logger;
 using System.Collections.Generic;
 using UnityEngine;
 using UFrame.MessageCenter;
-using Game.MessageCenter;
-using Game.Path.StraightLine;
+using ZooGame.MessageCenter;
+using ZooGame.Path.StraightLine;
 
-namespace Game
+namespace ZooGame
 {
     public partial class EntityShip : EntityMovable
     {

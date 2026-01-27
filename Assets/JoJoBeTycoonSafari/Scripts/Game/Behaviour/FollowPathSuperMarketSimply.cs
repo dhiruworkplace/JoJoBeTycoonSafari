@@ -2,13 +2,13 @@
 using UFrame.EntityFloat;
 using Logger;
 using System.Collections.Generic;
-using Game;
+using ZooGame;
 using UFrame;
 using UFrame.BehaviourFloat;
-using Game.MessageCenter;
+using ZooGame.MessageCenter;
 using UFrame.MessageCenter;
 
-namespace Game
+namespace ZooGame
 {
     public class FollowPathSuperMarketSimply : FollowPathRightAngles
     {

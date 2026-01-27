@@ -6,7 +6,7 @@ using UFrame.MessageCenter;
 using UnityEngine;
 using System.Numerics;
 
-namespace Game.MessageCenter
+namespace ZooGame.MessageCenter
 {
     public class BroadcastNum : Message
     {

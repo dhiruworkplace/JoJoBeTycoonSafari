@@ -1,4 +1,4 @@
-﻿using Game.GlobalData;
+﻿using ZooGame.GlobalData;
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;

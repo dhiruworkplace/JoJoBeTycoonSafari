@@ -14,7 +14,7 @@ using Logger;
 using System.Collections.Generic;
 using UnityEngine;
 
-namespace Game
+namespace ZooGame
 {
     public partial class EntityShuttle : EntityMovable
     {

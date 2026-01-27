@@ -7,13 +7,13 @@
 //********************************************************************/
 
 
-//using Game.Path.StraightLine;
+//using ZooGame.Path.StraightLine;
 //using UFrame;
 //using UFrame.MessageCenter;
 //using Logger;
-//using Game.MessageCenter;
+//using ZooGame.MessageCenter;
 
-//namespace Game
+//namespace ZooGame
 //{
 //    /// <summary>
 //    /// 负责刷出游客到走到空闲入口，或者没有空闲入口离开的过程。

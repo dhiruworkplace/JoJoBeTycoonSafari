@@ -4,7 +4,7 @@ using UnityEngine;
 using UnityEditor;
 using UFrame.Path.StraightLine;
 
-namespace Game.Tools
+namespace ZooGame.Tools
 {
     [CustomEditor(typeof(ZooCamera))]
     public class ZooCameraEditor : Editor

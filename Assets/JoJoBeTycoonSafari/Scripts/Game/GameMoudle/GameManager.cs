@@ -12,13 +12,13 @@ using System.Collections.Generic;
 using UnityEngine;
 using UFrame.Common;
 using UFrame;
-using Game.GlobalData;
-using Game.MessageCenter;
+using ZooGame.GlobalData;
+using ZooGame.MessageCenter;
 using UFrame.MessageCenter;
 using Logger;
 using System;
 
-namespace Game
+namespace ZooGame
 {
     public class GameManagerTick : TickBase
     {

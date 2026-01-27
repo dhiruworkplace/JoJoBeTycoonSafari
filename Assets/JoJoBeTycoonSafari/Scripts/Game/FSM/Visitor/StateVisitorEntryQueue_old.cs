@@ -12,11 +12,11 @@
 //using UFrame.MessageCenter;
 //using UnityEngine;
 //using Logger;
-//using Game.MessageCenter;
-//using Game.GlobalData;
-//using Game.Path.StraightLine;
+//using ZooGame.MessageCenter;
+//using ZooGame.GlobalData;
+//using ZooGame.Path.StraightLine;
 
-//namespace Game
+//namespace ZooGame
 //{
 //    /// <summary>
 //    /// 负责游客在入口排队到进入动物园的过程。能走到这个状态的游客都能进入动物园。

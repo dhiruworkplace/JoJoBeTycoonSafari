@@ -11,7 +11,7 @@ using UFrame;
 using UFrame.BehaviourFloat;
 using UFrame.EntityFloat;
 
-namespace Game
+namespace ZooGame
 {
     public class EntityGroundParkingCar : EntityMovable
     {

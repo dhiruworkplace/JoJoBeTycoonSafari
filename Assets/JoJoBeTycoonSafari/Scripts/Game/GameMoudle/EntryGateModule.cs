@@ -13,10 +13,10 @@ using UFrame;
 using UFrame.MessageCenter;
 using UnityEngine;
 using Logger;
-using Game.MessageCenter;
-using Game.GlobalData;
+using ZooGame.MessageCenter;
+using ZooGame.GlobalData;
 
-namespace Game
+namespace ZooGame
 {
     /// <summary>
     /// 入口检票逻辑模块

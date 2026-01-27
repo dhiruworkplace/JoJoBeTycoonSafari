@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-namespace Game.GlobalData
+namespace ZooGame.GlobalData
 {
     /// <summary>
     /// internationalization 国际化

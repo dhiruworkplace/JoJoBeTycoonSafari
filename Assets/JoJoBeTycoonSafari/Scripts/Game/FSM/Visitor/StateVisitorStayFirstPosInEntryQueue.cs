@@ -8,9 +8,9 @@
 
 
 using DG.Tweening;
-using Game.GlobalData;
-using Game.MessageCenter;
-using Game.Path.StraightLine;
+using ZooGame.GlobalData;
+using ZooGame.MessageCenter;
+using ZooGame.Path.StraightLine;
 using Logger;
 using System;
 using System.Collections;
@@ -21,7 +21,7 @@ using UFrame.MiniGame;
 using UnityEngine;
 using UnityEngine.UI;
 
-namespace Game
+namespace ZooGame
 {
     /// <summary>
     /// 入口排队首位状态

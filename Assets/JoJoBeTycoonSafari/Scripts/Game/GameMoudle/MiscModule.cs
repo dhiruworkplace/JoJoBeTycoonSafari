@@ -1,6 +1,6 @@
 ﻿using UnityEngine;
 using System.Collections.Generic;
-using Game.GlobalData;
+using ZooGame.GlobalData;
 using UFrame.Common;
 using UFrame.MessageCenter;
 using UnityEngine;
@@ -8,7 +8,7 @@ using UnityEngine.EventSystems;
 using DG.Tweening;
 using System.Collections;
 
-namespace Game
+namespace ZooGame
 {
     public enum FreeItemAdState
     {

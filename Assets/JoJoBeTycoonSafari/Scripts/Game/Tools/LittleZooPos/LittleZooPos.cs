@@ -12,7 +12,7 @@ using System.Collections.Generic;
 using UFrame.Path.StraightLine;
 using UnityEngine;
 
-namespace Game.Tools
+namespace ZooGame.Tools
 {
     public class LittleZooPos : MonoBehaviour
     {

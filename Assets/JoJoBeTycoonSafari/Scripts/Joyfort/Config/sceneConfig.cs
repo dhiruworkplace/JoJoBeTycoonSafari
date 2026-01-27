@@ -31,7 +31,7 @@ namespace Config
 		public readonly int RowNum = 1;
 		private void InitData(){
 			this.AllData = new Dictionary<string,sceneCell> ();
-			this.AllData.Add("1",new sceneCell("海岛",50,"UIAtlas/UIIcon/Tiger","prefabs/Scene/dwy_9",10));
+			this.AllData.Add("1",new sceneCell("海岛",50,"UIAtlas/UIIcon/Tiger", "prefabs/Scene/ZooMap", 10));
 		}
 	}
 	public class sceneCell

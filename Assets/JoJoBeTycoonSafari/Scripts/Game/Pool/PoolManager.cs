@@ -13,11 +13,11 @@ using UFrame;
 using UFrame.Common;
 using UFrame.EntityFloat;
 using UnityEngine;
-using Game;
+using ZooGame;
 using Config;
 using UFrame.MiniGame;
 
-namespace Game.MiniGame
+namespace ZooGame.MiniGame
 {
     public class PoolManager : Singleton<PoolManager>, ISingleton
     {

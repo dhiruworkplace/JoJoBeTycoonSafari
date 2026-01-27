@@ -2,10 +2,10 @@
 using System.Collections.Generic;
 using UnityEngine;
 using System.Numerics;
-using Game.GlobalData;
+using ZooGame.GlobalData;
 using Logger;
 
-namespace Game
+namespace ZooGame
 {
     public partial class ExitGateModule : GameModule
     {

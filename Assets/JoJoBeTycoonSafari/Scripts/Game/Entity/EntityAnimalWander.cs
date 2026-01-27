@@ -7,9 +7,9 @@
 ********************************************************************/
 
 
-using Game.GlobalData;
-using Game.MessageCenter;
-using Game.MiniGame;
+using ZooGame.GlobalData;
+using ZooGame.MessageCenter;
+using ZooGame.MiniGame;
 using Logger;
 using UFrame;
 using UFrame.BehaviourFloat;
@@ -17,7 +17,7 @@ using UFrame.EntityFloat;
 using UFrame.MessageCenter;
 using UnityEngine;
 
-namespace Game
+namespace ZooGame
 {
     /// <summary>
     /// 散步的动物(动物园内动物栏的动物)
